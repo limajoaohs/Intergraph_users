@@ -10,6 +10,7 @@ The main algorithm, `intergraph_users`, accepts two NetworkX graph objects. It f
 3. The edges representing the reviews/interactions.
 
 This approach allows for the analysis of user behavior across different geographic locations or data subsets without merging the entire dataset.
+![alt text](Figure_1.png)
 
 ## Project Structure
 
